@@ -1,0 +1,1 @@
+{"high": [{"period_hi": 200, "crit": 2, "budget_hi": 20, "deadline_lo": 200, "period_lo": 100, "budget_lo": 10, "deadline_hi": 200}], "low": [{"deadline_lo": 100, "crit": 1, "period_lo": 100, "budget_lo": 10}], "syscrit": 2}

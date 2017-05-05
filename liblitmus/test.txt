@@ -1,0 +1,2 @@
+sudo ./rtspin -w 3 30 30 10
+sudo ./rtspin -Z 2 -w 5 20 15 10 20 20 10
